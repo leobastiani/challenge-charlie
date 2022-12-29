@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/challenge-charlie/static/css/main.c2e2c693.css",
-    "main.js": "/challenge-charlie/static/js/main.846f084a.js",
+    "main.css": "/challenge-charlie/static/css/main.5963d063.css",
+    "main.js": "/challenge-charlie/static/js/main.25b8c13c.js",
     "static/js/787.6f392cb1.chunk.js": "/challenge-charlie/static/js/787.6f392cb1.chunk.js",
     "static/media/roboto-latin-900italic.woff": "/challenge-charlie/static/media/roboto-latin-900italic.c20d916c1a1b094c1cec.woff",
     "static/media/roboto-latin-300italic.woff": "/challenge-charlie/static/media/roboto-latin-300italic.bd5b7a13f2c52b531a2a.woff",
@@ -28,12 +28,12 @@
     "static/media/roboto-latin-400.woff2": "/challenge-charlie/static/media/roboto-latin-400.176f8f5bd5f02b3abfcf.woff2",
     "static/media/roboto-latin-900.woff2": "/challenge-charlie/static/media/roboto-latin-900.870c8c1486f76054301a.woff2",
     "index.html": "/challenge-charlie/index.html",
-    "main.c2e2c693.css.map": "/challenge-charlie/static/css/main.c2e2c693.css.map",
-    "main.846f084a.js.map": "/challenge-charlie/static/js/main.846f084a.js.map",
+    "main.5963d063.css.map": "/challenge-charlie/static/css/main.5963d063.css.map",
+    "main.25b8c13c.js.map": "/challenge-charlie/static/js/main.25b8c13c.js.map",
     "787.6f392cb1.chunk.js.map": "/challenge-charlie/static/js/787.6f392cb1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2e2c693.css",
-    "static/js/main.846f084a.js"
+    "static/css/main.5963d063.css",
+    "static/js/main.25b8c13c.js"
   ]
 }
